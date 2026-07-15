@@ -1,0 +1,65 @@
+# Build and Compiled Files
+
+*.class
+*.jar
+*.war
+*.ear
+bin/
+out/
+build/
+target/
+
+# Log Files
+
+*.log
+
+# Java Virtual Machine
+
+hs_err_pid*
+
+# Eclipse
+
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+
+.idea/
+*.iml
+
+# Visual Studio Code
+
+.vscode/
+
+# NetBeans
+
+nbproject/private/
+build/
+dist/
+
+# Operating System Files
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary Files
+
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Environment Files
+
+.env
+.env.local
+
+# Dependency Directories
+
+node_modules/
+
+# Generated Files
+
+*.cache
